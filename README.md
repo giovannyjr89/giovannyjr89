@@ -5,24 +5,11 @@
 I'm an engineer and a data enthusiast passionate about transforming raw data into actionable insights. I love exploring how data shapes the world!
 
 ## ⚒️ Tools
-- Languages: SQL, Phyton
-- Database: MySQL, Microsoft SQL Server Management Studio (SSMS)
+- **Languages**: Python, SQL
+- **Databases**: MySQL, Microsoft SQL Server Management Studio (SSMS), Oracle  
+- **Frameworks**: Pandas, NumPy, Matplotlib
 
 ## 🤙 Connect with me 
-- [LinkedIn](https://www.linkedin.com/in/gioavillaneda/)
-- [Email](https://mail.google.com/mail/u/0/#compose)
-
-<!--
-**giovannyjr89/giovannyjr89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 [LinkedIn](https://www.linkedin.com/in/gioavillaneda/): Let's connect professionally!  
+- 📧 [Email Me](https://mail.google.com/mail/u/0/#compose): Reach out with questions or collaborations.  
+- 🐙 [GitHub](https://github.com/giovannyjr89): Check out my projects and contributions.  
